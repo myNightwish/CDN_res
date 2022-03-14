@@ -1,2 +1,2 @@
 # CDN_res
-cdn about resource
+cdn about resource test
